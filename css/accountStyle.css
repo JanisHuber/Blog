@@ -1,0 +1,25 @@
+#background {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1e1e2f;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    color: inherit;
+}
+
+.hover:hover {
+    color: #a76bd9;
+    text-decoration: underline;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 80vh;
+    padding: 20px;
+}
